@@ -1,0 +1,52 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "TerenyiJanos_web",
+    "collectionId": "a063eab5-ce33-4aab-9f2a-62f72d81845a",
+    "dateExported": "2024-05-21T14:36:45.567Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "5e01277e-14a2-4315-96c2-c0ba810ed1b4",
+            "colId": "a063eab5-ce33-4aab-9f2a-62f72d81845a",
+            "containerId": "",
+            "name": "getSzavak",
+            "url": "szavak",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2024-05-21T14:34:37.530Z",
+            "modified": "2024-05-21T14:34:41.580Z",
+            "headers": []
+        },
+        {
+            "_id": "3df282e1-643c-42d2-a0fe-3f879fb5f698",
+            "colId": "a063eab5-ce33-4aab-9f2a-62f72d81845a",
+            "containerId": "",
+            "name": "getSzavakTemaval",
+            "url": "szavak/tema",
+            "method": "GET",
+            "sortNum": 40000,
+            "created": "2024-05-21T14:34:50.984Z",
+            "modified": "2024-05-21T14:34:57.981Z",
+            "headers": []
+        },
+        {
+            "_id": "7a57f60e-d606-40bf-936b-ae047bfa41d4",
+            "colId": "a063eab5-ce33-4aab-9f2a-62f72d81845a",
+            "containerId": "",
+            "name": "getTema",
+            "url": "tema",
+            "method": "GET",
+            "sortNum": 50000,
+            "created": "2024-05-21T14:35:09.968Z",
+            "modified": "2024-05-21T14:35:13.464Z",
+            "headers": []
+        }
+    ],
+    "settings": {
+        "options": {
+            "baseUrl": "http://localhost:8000/api/"
+        }
+    },
+    "ref": "CXwZL03y8j5ZoPfuWBQxZtrwREvID-zNn2wB8f8_4PD1-sYG0pnEriUvjfCVBTHDcSQd8CnRJ4QC3gLvuL2oAQ"
+}
